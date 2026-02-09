@@ -4,7 +4,7 @@ This repository hosts Sam Long's email signature and its assets, including perso
 
 ## Contents
 
-- [`/assets/LICENSE.md`] - License and usage terms for the assets
+- [`/assets/LICENSE.md`](/assets/LICENSE.md) - License and usage terms for the assets
 - [`/assets/profile/`](/assets/profile/) - Contains [Sam Long's profile picture](/assets/profile/profile-picture-blue.png) (&copy; Sam Long, 2025)
 - [`/assets/icons/`](/assets/icons/) - Contains modified PNG icons derived from Tabler Icons (MIT Licensed)
 - [`/email-signatures/`](/email-signatures/) - Contains HTML for personal and work versions of Sam Long's email signature
