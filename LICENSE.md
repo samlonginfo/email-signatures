@@ -4,11 +4,11 @@
 
 &copy; Sam Long, 2025. All rights reserved.
 
-[This image](/profile/profile-picture-blue.png) (located in [`/profile/`](/profile/)) is provided solely for use in Sam Long's personal branding. Unauthorised redistribution, modification, reuse, or commercial use is strictly prohibited.
+[This image](/assets/profile/profile-picture-blue.png) (located in [`/assets/profile/`](/assets/profile/)) is provided solely for use in Sam Long's personal branding. Unauthorised redistribution, modification, reuse, or commercial use is strictly prohibited.
 
 ## Icons
 
-Icons located in the [`/icons/`](/icons/) folder are derived from [Tabler Icons](https://tabler.io/icons) and originally licensed under the MIT License.
+Icons located in the [`/assets/icons/`](/assets/icons/) folder are derived from [Tabler Icons](https://tabler.io/icons) and originally licensed under the MIT License.
 
 Modifications were made to the original SVGs:
 - Colour changes
